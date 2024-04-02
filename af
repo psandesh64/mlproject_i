@@ -1,0 +1,71 @@
+[33mcommit 48cf0209de40d520a78e005bfbd812f64836b0cd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Sat Mar 30 08:51:03 2024 +0545
+
+    Model Trainer
+
+[33mcommit 19dac73fd8b5a4c739597de918e50f2d5dd31e55[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 19:33:51 2024 +0545
+
+    data transformation
+
+[33mcommit 58748598d8afb1b4b222ae93eeb2f1074920c4c3[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 18:02:55 2024 +0545
+
+    EDA, Feature Engineering, Model Training
+
+[33mcommit 520e9f92865fdc5b41ae7ed918e4153c1c71deaf[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 13:13:14 2024 +0545
+
+    git add for datas.dvc
+
+[33mcommit c52d7f43e6fb19f6c94237ccc209aa0068e9a493[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 12:56:35 2024 +0545
+
+    git untrack
+
+[33mcommit d24e68dce36cb9b89082942bdf96a359626bd10f[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 12:47:33 2024 +0545
+
+    data ingestion changes
+
+[33mcommit f0a567275b038e215ca528e5e004bc8599c9e7ca[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 12:17:04 2024 +0545
+
+    data ingestion
+
+[33mcommit 9ef248572819ad79ab54a6ed6a0680a7b7a0ebff[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 09:53:27 2024 +0545
+
+    logging and Exception Handling
+
+[33mcommit 6a1234f0bb92ea68593c09eca51fbbf6ff9a5a50[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 09:13:13 2024 +0545
+
+    project structure
+
+[33mcommit 9ffa08cd9d8d4d93181cddd1e8b5be55d2cfd954[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 08:12:08 2024 +0545
+
+    First setup commit
+
+[33mcommit 277691f9360004446f5d25c52b9d40448a58bd5c[m
+Author: psandesh64 <123528850+psandesh64@users.noreply.github.com>
+Date:   Fri Mar 29 07:44:58 2024 +0545
+
+    Create .gitignore
+
+[33mcommit 645464e33b2678e30da82238888ac430cf20f8c6[m
+Author: psandesh64 <psandesh64@gmail.com>
+Date:   Fri Mar 29 07:41:02 2024 +0545
+
+    first commit
